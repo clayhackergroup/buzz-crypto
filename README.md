@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://ovpnspider.com">
-    <img src="ovpnspider_logo.png" alt="OVPN Spider" width="180"/>
+    <img src="https://play-lh.googleusercontent.com/PPOofCAhV2Ns08v2zGflMfak8P0wUKPpx1qb-wwpRJAPwyf2GY6Mv8iuBc_HX1sjFg=w512-h512-p" alt="OVPN Spider" width="180"/>
   </a>
 </p>
 
@@ -462,7 +462,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="center">
   <a href="https://ovpnspider.com">
-    <img src="ovpnspider_logo.png" alt="OVPN Spider" width="100"/>
+    <img src="https://play-lh.googleusercontent.com/PPOofCAhV2Ns08v2zGflMfak8P0wUKPpx1qb-wwpRJAPwyf2GY6Mv8iuBc_HX1sjFg=w128-h128-p" alt="OVPN Spider" width="100"/>
   </a>
   <br>
   <b>SPONSORED BY OVPN SPIDER</b>
