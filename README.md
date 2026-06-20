@@ -2,13 +2,33 @@
 
 > Multi-language cryptocurrency tracking bot for Telegram — track wallets, monitor mempool, price alerts, and technical analysis.
 
+<br>
+
 <p align="center">
-  <img src="ovpnspider_logo.png" alt="Sponsored by OVPN Spider" width="120"/>
+  <a href="https://ovpnspider.com">
+    <img src="ovpnspider_logo.png" alt="OVPN Spider" width="180"/>
+  </a>
 </p>
 
 <p align="center">
-  <b>Sponsored by</b> <a href="https://ovpnspider.com"><b>OVPN Spider</b></a> — Your trusted VPN proxy for secure, unrestricted browsing.
+  <b>SPONSORED BY</b>
+  <br>
+  <a href="https://ovpnspider.com"><b>OVPN SPIDER</b></a>
+  <br>
+  <sub>Secure. Private. Unrestricted. — Your trusted VPN proxy for safe and anonymous browsing.</sub>
 </p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.ovpnspider">
+    <img src="https://img.shields.io/badge/Download-Google_Play-414141?logo=googleplay&logoColor=white" alt="Google Play"/>
+  </a>
+  &nbsp;
+  <a href="https://ovpnspider.com">
+    <img src="https://img.shields.io/badge/Visit-Website-006BED?logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
+
+<br>
 
 ---
 
@@ -436,8 +456,18 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
+<br>
+
+---
+
 <p align="center">
-  Made with by <a href="https://github.com/clayhackergroup">clayhackergroup</a>
+  <a href="https://ovpnspider.com">
+    <img src="ovpnspider_logo.png" alt="OVPN Spider" width="100"/>
+  </a>
   <br>
-  <sub>Sponsored by <a href="https://ovpnspider.com">OVPN Spider</a> — Secure. Private. Unrestricted.</sub>
+  <b>SPONSORED BY OVPN SPIDER</b>
+  <br>
+  <sub>Download on <a href="https://play.google.com/store/apps/details?id=com.ovpnspider">Google Play</a> — <a href="https://ovpnspider.com">ovpnspider.com</a></sub>
+  <br><br>
+  Made with by <a href="https://github.com/clayhackergroup">clayhackergroup</a>
 </p>
